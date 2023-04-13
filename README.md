@@ -129,7 +129,11 @@ Unreal Engine — игровой движок, который был созда�
 Источники
 =========
 https://docs.unity3d.com/Manual/index.html
+
 https://dtf.ru/indie/937127-fenomen-indi-horrorov-v-stile-ps1
+
 https://shazoo.ru/2019/08/30/83887/psihologiya-straha-pochemu-vy-lyubite-igrat-i-smotret-horrory
+
 https://itch.io/
+
 https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA
